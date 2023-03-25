@@ -321,6 +321,8 @@ IP 地址用于在连接到网络中的所有主机中识别出进行通信的�
 4. 不同数据链路的区别在于各自的最大传输单位 （MTU：Maximum Transmission Unit）。
 
 ## 不同数据链路的 MTU
+> [Maximum transmission unit](https://en.wikipedia.org/wiki/Maximum_transmission_unit)
+
 IP 数据报的总长度不能超过数据链路层的 MTU 值。
 
 ![1](https://img-blog.csdnimg.cn/447a8ac1fcd3439796217f98d369368a.png)
