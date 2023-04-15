@@ -67,8 +67,13 @@
 ![1](https://img-blog.csdnimg.cn/768ca4850ee641b9a43a1323a6fd645e.png)
 ![2](https://img-blog.csdnimg.cn/f666ae30a1c14b7eb6f4111f60c5799c.png)
 
+- 集线器是共享媒体，当网络忙碌时，可能会发生碰撞，因此有 CSMA/CD
+
+
 # 1.9.4 网桥/2 层交换机
-**网桥**连接起来的属于**一个局域网**，有相同的网络号，工作在**数据链路层**。
+
+- **网桥**连接起来的属于**一个局域网**，有相同的网络号，工作在**数据链路层**。
+- 交换机是非共享媒体，区别于集线器
 
 ![1](https://img-blog.csdnimg.cn/e13b1d09899447d7a127c957bb76c1d4.png)
 ![2](https://img-blog.csdnimg.cn/57d125fe29b940998936260b2be4d4fd.png)
