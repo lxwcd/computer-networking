@@ -56,12 +56,11 @@
 **************************
 
 # 网络接口
-> [2.1.2 计算机网络组成组件](http://cn.linux.vbird.org/linux_server/0110network_basic_1.php#whatisnetwork_comps)
+> [Network interfaces](https://learn.microsoft.com/en-us/windows/win32/network-interfaces)
 
-> 网络接口是利用软件设计出来的，用于提供网络地址（IP）
-> 一个网卡可搭配一个以上的网络接口
-> 每个主机内部也有一个内部的网络接口，即 loopback（lo）用于环回测试的接口
-
+- 计算机与网络之间的连接点 
+- 可以是物理的，也可以是虚拟的
+- 允许计算机通过网络发送和接收数据
 
 # 1.9.3 中继器与集线器
 ![1](https://img-blog.csdnimg.cn/768ca4850ee641b9a43a1323a6fd645e.png)
